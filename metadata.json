@@ -1,0 +1,6 @@
+{
+  "name": "九霄仙途",
+  "description": "經典中國風修仙 MMORPG 網頁遊戲 — 禦劍飛升、宗門爭霸、九霄渡劫、百變神裝與至尊 VIP 仙途體驗。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
